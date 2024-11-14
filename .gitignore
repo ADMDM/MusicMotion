@@ -1,4 +1,16 @@
-# Prerequisites
+# Arduino compiled files
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+
+# Arduino build folder
+/build
+
+# MacOS
+.DS_Store
+ Prerequisites
 *.d
 
 # Compiled Object files
